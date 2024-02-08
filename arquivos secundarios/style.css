@@ -1,0 +1,28 @@
+body {
+    background-color: firebrick;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    position: relative;
+    top: -20px;
+    font-size: 60px;
+}
+
+h2 {
+    position: relative;
+    top: -10px;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+footer {
+    padding-top: 75px;
+}
